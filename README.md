@@ -1,4 +1,6 @@
-# React + Vite
+# GSAP crash course 
+
+YT : [Course](https://youtu.be/kRQbRAJ4-Fs?si=x6w5D4wcBP9V9-Xi&t=684)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
